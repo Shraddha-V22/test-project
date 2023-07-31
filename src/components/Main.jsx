@@ -76,7 +76,7 @@ export default function Main() {
           </h3>
           <ul className="text-f14">
             <li className="border-b py-2">stripe docs</li>
-            <li className="border-b py-2">Created jul 13, 2023</li>
+            <li className="border-b py-2 capitalize">Created jul 13, 2023</li>
             <li className="py-2 ">4,852 pages</li>
           </ul>
         </div>
